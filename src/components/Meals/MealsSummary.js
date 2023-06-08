@@ -5,14 +5,14 @@ const MealsSummary = props => {
     return(
         <section className={classes.summary}>
            <h1>Delicious Food, Delivered To You</h1>  
-           <p>
+        <p>
            Choose your favourite meal from our braod selection of available
            meals and enjoy a delicious lunch or dinner at home.
-       </p>
-       <p>
+        </p>
+        <p>
            All our meals are cooked with high quality ingredients,
            just-in-time and of course by experienced chefs!
-       </p>
+        </p>
         </section>
     )
 };
